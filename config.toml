@@ -1,5 +1,6 @@
 baseurl = "https://www.google.com"
 languageCode = "en-us"
+publishDir = "docs"
 Title = "Your site title"
 themesDir = "themes"
 theme = "pickles"
