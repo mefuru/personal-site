@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Your site title</title>
-    <link>https://www.google.com/</link>
+    <link>https://mefuru.github.io/personal-site/</link>
     <description>Recent content on Your site title</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; Copyright notice</copyright>
     <lastBuildDate>Mon, 30 Oct 2017 10:59:16 +0100</lastBuildDate>
     
-	<atom:link href="https://www.google.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mefuru.github.io/personal-site/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>First Post</title>
-      <link>https://www.google.com/posts/first-post/</link>
+      <link>https://mefuru.github.io/personal-site/posts/first-post/</link>
       <pubDate>Mon, 30 Oct 2017 10:59:16 +0100</pubDate>
       
-      <guid>https://www.google.com/posts/first-post/</guid>
+      <guid>https://mefuru.github.io/personal-site/posts/first-post/</guid>
       <description> DOn&amp;rsquo;t call it a comebabck </description>
     </item>
     
     <item>
       <title>About Hugo</title>
-      <link>https://www.google.com/about/</link>
+      <link>https://mefuru.github.io/personal-site/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://www.google.com/about/</guid>
+      <guid>https://mefuru.github.io/personal-site/about/</guid>
       <description>Hugo is a static site engine written in Go.
 It makes use of a variety of open source projects including:
  Cobra Viper J Walter Weatherman Cast  Learn more and contribute on GitHub.</description>
