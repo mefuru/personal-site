@@ -1,4 +1,4 @@
-baseurl = "https://www.google.com"
+baseurl = "https://mefuru.github.io/personal-site/"
 languageCode = "en-us"
 publishDir = "docs"
 Title = "Your site title"
